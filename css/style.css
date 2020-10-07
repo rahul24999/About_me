@@ -86,8 +86,8 @@ a:hover{
 }
 .bottom-cloud{
 	position: absolute;
-	left: 200px;
-	top: 200px;
+	left: 100px;
+	top: 80px;
 }
 .third-cloud{
 	position: absolute;
@@ -109,7 +109,9 @@ a:hover{
 	height: 200px;
 	float: right;
 	margin-left: 50px;
-
+}
+.title{
+	padding-top: 50px;
 }
 #pro2{
 	position: absolute;
